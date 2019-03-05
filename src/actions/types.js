@@ -1,0 +1,14 @@
+/**
+ * Auth Actions
+ */
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGIN_ERROR = 'LOGIN_ERROR'
+export const SIGNOUT_SUCCESS = 'SIGNOUT_SUCCESS'
+export const SIGNUP_SUCCESS = 'SIGNUP_SUCCESS'
+export const SIGNUP_ERROR = 'SIGNUP_ERROR'
+
+/**
+ * Project Actions
+ */
+export const PROJECT_CREATE_SUCCESS = 'PROJECT_CREATE_SUCCESS'
+export const PROJECT_CREATE_ERROR = 'PROJECT_CREATE_ERROR'
