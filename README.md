@@ -1,5 +1,6 @@
 # React + Redux + Firebase Starter
 
+[![Build Status](https://travis-ci.org/charkala/react-native-redux-firebase.svg?branch=master)](https://travis-ci.org/charkala/react-native-redux-firebase)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project was boostrapped with [Create React App](https://github.com/facebook/create-react-app).
